@@ -1,52 +1,58 @@
-# Retail Orders Analysis using MySQL
+# Retail Orders Analysis — DecodeLabs Internship Project 3
 
-## Project Overview
+## 📌 Project Overview
 
-This project focuses on analyzing a retail orders dataset using MySQL to uncover valuable business insights. SQL queries were used to filter, aggregate, and analyze sales data, helping identify product performance and revenue trends.
+This project analyzes retail order data using MySQL to uncover insights related to product performance, revenue generation, order status, payment methods, and customer purchasing patterns. SQL queries were used to transform raw transactional data into actionable business insights.
 
-## Objectives
+## 📂 Repository Contents
 
-* Analyze retail sales data
-* Identify top-performing products
-* Calculate total revenue and average order value
-* Evaluate order status performance
-* Generate business insights using SQL
+| File                       | Description                             |
+| -------------------------- | --------------------------------------- |
+| Retail_Orders_Dataset.xlsx | Retail orders dataset used for analysis |
+| SQL_Queries.sql            | SQL queries used for data analysis      |
+| Project_Report.pdf         | Summary of findings and insights        |
+| Screenshots                | Query results and outputs               |
 
-## Tools Used
+## 🛠️ Tools & Technologies
 
+* MySQL
 * MySQL Workbench
 * SQL
+* Excel
 
-## Key SQL Concepts Applied
+## 📊 Analysis Performed
+
+* Revenue analysis by product
+* Average order value calculation
+* Order status analysis
+* Payment method analysis
+* Product performance comparison
+* Sales insights generation
+
+## 🔑 SQL Concepts Used
 
 * SELECT
 * WHERE
 * ORDER BY
 * GROUP BY
 * Aggregate Functions (SUM, AVG, COUNT)
-* Filtering and Data Analysis
+* Filtering & Sorting
 
-## Sample Analysis Performed
-
-* Total revenue by product
-* Average order value by product
-* Delivered orders analysis
-* Product performance comparison
-* Sales trend evaluation
-
-## Key Insights
+## 📈 Key Insights
 
 * Chair generated the highest revenue.
 * Printer and Laptop were among the top-performing products.
-* Average order values varied across product categories.
-* Delivered orders contributed significantly to overall sales.
+* Credit Card and Online payments were widely used.
+* Delivered orders contributed significantly to total sales.
 
-## Learning Outcomes
+## 🎯 Learning Outcomes
 
-Through this project, I strengthened my SQL querying skills, improved my ability to analyze datasets, and gained practical experience in extracting actionable business insights from raw data.
+* Improved SQL querying skills.
+* Gained hands-on experience with data analysis.
+* Learned to derive business insights from transactional datasets.
+* Strengthened understanding of database management and reporting.
 
-## Author
+## 👩 Author
 
-Ramjot Kaur
-Aspiring Data Analyst
-
+Ramjot Kaur — Data Analyst | BIA Data Science & AI Student
+ 
